@@ -7,5 +7,5 @@ Currently, a data set of labeled sentences does not exist. This is a project we 
 
 Thank you for your contribution to our project and the machine learning community! Please feel free to retake the survey as many times as you would like; it takes approximately 3 minutes to complete. 
 
-Take the survey here: https://www.biaslyai.com
+Help us label our data here: http://biaslyAI.com/
 
